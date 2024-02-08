@@ -1,0 +1,2 @@
+# memoria
+act memoria estatica
